@@ -1,7 +1,7 @@
 # 🧬 DNA Analyzer App
 
 ## 📌 Description
-The **DNA Analyzer App** is an **Android application** designed to analyze DNA sequences by calculating **nucleotide composition, complementary DNA strands, and RNA transcription (mRNA & tRNA strands)**. Users input a DNA sequence, and the app **processes and visualizes** the results in an interactive format.
+The **DNA Analyzer App** is an **Android application** designed to analyze DNA sequences by calculating **nucleotide composition, complementary DNA strands, and RNA transcription (mRNA & tRNA strands)**. Users input a DNA sequence, and the app **processes and analyzes** the results.
 
 ---
 
